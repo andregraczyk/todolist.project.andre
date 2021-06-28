@@ -1,0 +1,16 @@
+.listaDeTarefas {
+  background-color: salmon;
+}
+
+div {
+  background-color: blue;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.selected {
+  color: rgb(128, 128, 128);
+  background-color: rgb(128, 128,128);
+}
